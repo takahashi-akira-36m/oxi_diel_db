@@ -47,7 +47,7 @@ You can also use as a module by import predict\_log10\_eps from prediction\_mode
 The contents of this web site are licensed under a [Creative Commons Attribution 4.0 International License](https://creativecommons.org/licenses/by/4.0/).
 
 ## Reference
-[1] A. Takahashi, Y. Kumagai, J. Miyamoto, Y. Mochizuki and F. Oba, submitted to Phys. Rev. Materials
+[1] A. Takahashi, Y. Kumagai, J. Miyamoto, Y. Mochizuki and F. Oba, Phys. Rev. Materials 4, 103801 (2020).
 
 [2] A. Jain, S. P. Ong, G. Hautier, W. Chen, W. D. Richards, S. Dacek, S. Cholia, D. Gunter, D. Skinner, G. Ceder, and K. A. Persson, APL Mater. 1, 011002 (2013).
 
